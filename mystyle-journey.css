@@ -70,3 +70,30 @@ h1 {
     font-weight: 700;
     font-size: 1.5vw;
 }
+
+#content {
+    height: 52dvh;
+    width: 100%;
+    padding: 0 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ffffff;
+}
+
+#content h1 {
+    color: rgb(0, 0, 0);
+    padding: auto;
+    color: #088178;
+}
+
+#content h2 {
+    color: rgb(0, 0, 0);
+    padding-top: 15px
+}
+
+#content h3 {
+    font-size: 2vw;
+    color: #088178;
+    padding-top: 15px;
+}
