@@ -32,6 +32,21 @@ nav {
     object-fit: contain;
 }
 
+.logopage-j {
+    width: 5vw;
+    object-fit: contain;
+}
+
+.logopage-f {
+    width: 4vw;
+    object-fit: contain;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
 #myphoto {
     height: 84.5dvh;
     width: 100%;
